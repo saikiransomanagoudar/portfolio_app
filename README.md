@@ -11,5 +11,5 @@ Link: [Portfolio](https://www.saikiransomanagoudar.com)
 
 ## Getting Started
 * Clone the repository: git clone https://github.com/saikiransomanagoudar/portfolio_app.git
-* Navigate to the project directory: cd portfolio
+* Navigate to the project directory: cd portfolio_app
 * Open index.html in your browser.
