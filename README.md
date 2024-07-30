@@ -1,4 +1,4 @@
-# Persoal Portfolio Website
+# Personal Portfolio Website
 This repository contains the code of my personal portfolio website. It showcases my projects, work experience, skills, and contact information.
 
 Link: [Portfolio](https://www.saikiransomanagoudar.com)
